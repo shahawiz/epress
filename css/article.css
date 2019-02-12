@@ -1,0 +1,40 @@
+.article{
+    background-color:#FFF;
+    overflow:hidden ;
+    width:1230px 
+}
+.article_content{
+    width:600px;
+    float:right;
+    overflow:hidden;
+    margin:50px
+}
+.article_content img{
+    height:450px
+}
+.article_content p{
+    line-height:1.4;
+    margin-top:10px
+}
+.comment{
+    background-color:#8ed6ff;
+    padding: 12px;
+    margin-bottom:10px;
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -ms-border-radius:8px;
+    -o-border-radius:8px;
+}
+.comment_form input[type="text"]{
+    width:300px;
+    height:50px;
+    border-radius:5px;
+    border:1px solid #CCC
+}
+.comment h4{
+    color:#FFF;
+}
+.comment h6{
+    float:right
+}
